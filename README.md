@@ -1,4 +1,93 @@
-# Getting Started with Create React App
+# Hebron Nutrition - Ecommerce Website
+
+This is a fully functional eCommerce website designed for **Hebron Nutrition**. The website offers an intuitive shopping experience for customers, featuring various products, categories, and health information. Users can browse products, view bestsellers, and learn more about health-related topics. The website integrates an embedded YouTube video that provides information on improving mental health.
+
+---
+
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## Features
+- **Responsive Design**: Works on mobile, tablet, and desktop screens.
+- **Section One**: Features products with left and right navigation arrows for browsing multiple images.
+- **Featured Products Section**: Displays featured products in a horizontal scrollable format.
+- **YouTube Video Integration**: Embeds a video on improving mental health.
+- **Bestsellers**: Displays top products in the market.
+- **Pricing**: Sale and deal of the day sections for discounted products.
+- **Smooth Scrolling**: Product categories and health concerns are organized for easy navigation.
+
+---
+
+## Technologies Used
+- **React.js**: Frontend framework for building the UI.
+- **Tailwind CSS**: CSS framework used for responsive and modern UI design.
+- **Font Awesome Icons**: For left and right navigation arrows in product carousels.
+- **YouTube Embed**: Integrated to showcase mental health improvement content.
+
+---
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/gitusergb/hebron-nutrition-website.git
+    cd hebron-nutrition-website
+    ```
+
+2. **Install dependencies**:
+    Ensure you have [Node.js](https://nodejs.org/) installed, then run:
+    ```bash
+    npm install
+    ```
+
+3. **Start the development server**:
+    ```bash
+    npm start
+    ```
+    This will start the app on `http://localhost:3000`.
+
+4. **Build the project for production**:
+    ```bash
+    npm run build
+    ```
+
+---
+
+## Usage
+
+### Browsing Products
+- You can view a variety of health-related products, sorted by categories, brands, and bestsellers.
+- The featured product section allows users to scroll through a collection of items with the use of left and right arrows.
+  
+### YouTube Video
+- The website includes a YouTube video titled **"10 Ways to Improve Your Mental Health"**. It provides valuable information and is embedded within the site.
+
+### Add to Cart
+- Each product has an **Add to Cart** button that allows users to add the item to their shopping cart.
+
+---
+
+## Contact
+
+For any inquiries or questions, feel free to reach out at:
+
+- **Name**: Gauri Bidwai
+- **Email**: gauri@example.com
+- **GitHub**: [github.com/gauri-bidwai](https://github.com/gitusergb)
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +156,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
