@@ -2,7 +2,21 @@
 
 This is a fully functional eCommerce website designed for **Hebron Nutrition**. The website offers an intuitive shopping experience for customers, featuring various products, categories, and health information. Users can browse products, view bestsellers, and learn more about health-related topics. The website integrates an embedded YouTube video that provides information on improving mental health.
 
+
+- ## Live Demo
+
+- You can visit the live site [here](https://sprightly-zabaione-72435f.netlify.app/).
+
+
 ---
+
+
+## Screenshot
+
+![Hebron Nutrition](https://i.ibb.co/N7frMQd/HN.png)
+
+---
+
 
 ## Table of Contents
 - [Features](#features)
