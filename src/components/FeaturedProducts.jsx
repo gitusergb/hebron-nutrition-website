@@ -49,3 +49,5 @@ const FeaturedProducts = () => {
 }
 
 export default FeaturedProducts
+
+// https://i.ibb.co/G0rM4JG/ima1.jpg

@@ -1,15 +1,32 @@
 
 import React, {useState} from 'react'
 
+// https://i.ibb.co/7Wp5Pxg/img1.webp
+// https://i.ibb.co/ChHgs15/img2.webp
+// https://i.ibb.co/x85FWV3/img3.webp
+
+
 const SectionOne = () => {
  const  Is=[
   {
+    src:'https://i.ibb.co/x85FWV3/img3.webp',
+    alt:'Immune Support 1'
+},
+{
+  src:'https://i.ibb.co/ChHgs15/img2.webp',
+  alt:'Immune Support 2'
+},
+{
+  src:'https://i.ibb.co/7Wp5Pxg/img1.webp',
+  alt:'Immune Support 3'
+},
+  {
       src:'https://i.ibb.co/RbJ6MY7/images-1.jpg',
-      alt:'Immune Support 1'
+      alt:'Immune Support 4'
   },
   {
     src:'https://i.ibb.co/Xz89yK1/images.jpg',
-    alt:'Immune Support 2'
+    alt:'Immune Support 5'
   }
  ]
  const [currentImageIndex, setCurrentImageIndex]=useState(0);
@@ -31,7 +48,7 @@ const handleNext = () => {
           alt={Is[currentImageIndex].alt}
           className="w-full h-96 object-cover"
         />
-        <div className="absolute inset-0 flex flex-col  items-center justify-center bg-black bg-opacity-60">
+        <div className="absolute inset-0 flex flex-col  items-center justify-center bg-black bg-opacity-50">
 
           <h1 className="text-white text-4xl font-bold">Immune Support</h1>
           <button className="bg-purple-950 text-white py-2 px-6 rounded mt-4">Shop Now</button>

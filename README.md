@@ -82,10 +82,18 @@ To run this project locally, follow these steps:
 For any inquiries or questions, feel free to reach out at:
 
 - **Name**: Gauri Bidwai
-- **Email**: gauri@example.com
-- **GitHub**: [github.com/gauri-bidwai](https://github.com/gitusergb)
+- **Email**: g4ur131@gmail.com
+- **GitHub**: [github.com/gitusergb](https://github.com/gitusergb)
 
 
+<!-- https://i.ibb.co/6Zs9q9p/Landing-Page-1.jpg -->
+
+
+<!-- https://i.ibb.co/B4zm4Dn/Gastrointestinal.webp
+https://i.ibb.co/zNhN5mx/Household.jpg
+https://i.ibb.co/CPdnQzK/Joint-Health.jpg
+https://i.ibb.co/SNpz0xk/nervous.webp
+https://i.ibb.co/ncpM5PL/omega-3.jpg -->
 
 <!-- # Getting Started with Create React App
 

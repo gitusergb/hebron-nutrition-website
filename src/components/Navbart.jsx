@@ -5,9 +5,9 @@ const Navbart = () => {
     <div className='bg-white shadow-md'>
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         <div className="flex items-center hidden md:flex">
-          <img src="https://i.ibb.co/X2rsdZ2/HEBRON-NUTRITION.png" alt="HEBRON NUTRITION" className="h-10"/>
+          <img src="https://i.ibb.co/CK4CTht/logo.png" alt="HEBRON NUTRITION" className="h-10"/>
         </div>
-        <div className="flex space-x-6 hidden md:flex">
+        <div className="flex space-x-6 hidden md:flex font-bold">
           <a href="#" className="text-gray-700 hover:text-blue-700">Home</a>
           <a href="#" className="text-gray-700 hover:text-blue-700">Shop by brand</a>
           <a href="#" className="text-gray-700 hover:text-blue-700">Shop by category</a>
@@ -19,7 +19,7 @@ const Navbart = () => {
           <a href="#" className="text-gray-700 hover:text-blue-700"><i className="fas fa-user"></i></a>
           <a href="#" className="text-gray-700 hover:text-blue-700"> <i className="fas fa-shopping-cart text-gray-700"></i></a>
         </div>
-        <div className="md:hidden flex flex-col space-y-4">
+        <div className="md:hidden flex flex-col space-y-4 font-bold">
           <a href="#" className="text-gray-700 hover:text-blue-700">Home</a>
           <a href="#" className="text-gray-700 hover:text-blue-700">Shop by brand</a>
           <a href="#" className="text-gray-700 hover:text-blue-700">Shop by category</a>
